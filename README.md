@@ -1,8 +1,7 @@
-# Article name here
+# How to add CORS to an S3 bucket in AWS CDK
 
 A repository for an article on
-[bobbyhadz.com](https://bobbyhadz.com/blog/aws-s3-presigned-url-react)
-`<- Update Link`
+[bobbyhadz.com](https://bobbyhadz.com/blog/add-cors-s3-bucket-aws-cdk)
 
 ## How to Use
 
